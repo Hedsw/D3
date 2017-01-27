@@ -1,6 +1,7 @@
-# D3 Sample Sources !! :)
+# D3.js sources that i used in EPIDEMIA project
 
  Here is good sample D3 sources for you guys
+ feel free to bring this codes for your projects.
  As you know, Bar chart is one of basic data visualization in D3.js
  Also, different with R, D3.js can MAKE responsive Web Data visualization Things
 
